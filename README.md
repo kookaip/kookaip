@@ -4,8 +4,8 @@
 
 🔭 I’m currently working on privacy in software engineering.
 
-- privacy requirements engineering
-- privacy weakneeses and vulnerabilities detection and classification).
+- Privacy requirements engineering
+- Privacy weakneeses and vulnerabilities detection and classification
 
 😄 Pronouns: She/her
 

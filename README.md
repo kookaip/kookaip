@@ -1,11 +1,17 @@
-### Hi there 👋 สวัสดีค่ะ 🙏
+### Hi there 👋🙏
 
-🦘 I'm a PhD student at Decision Systems Lab, University of Wollongong, Australia
+🦘 I'm a PhD student at Decision Systems Lab, University of Wollongong, Australia.
 
 🔭 I’m currently working on privacy in software engineering.
 
+- privacy requirements engineering
+- privacy weakneeses and vulnerabilities detection and classification).
+
+😄 Pronouns: She/her
+
 📫 How to reach me: ps642@uowmail.edu.au
 
+⚡ Fun fact: 🐥
 
 <!--
 **kookaip/kookaip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

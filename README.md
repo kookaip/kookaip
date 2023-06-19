@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on privacy in software engineering.
+📫 How to reach me: ps642@uowmail.edu.au
+
+
 <!--
 **kookaip/kookaip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

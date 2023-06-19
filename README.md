@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 สวัสดีค่ะ 🙏
 
 🦘 I'm a PhD student at Decision Systems Lab, University of Wollongong, Australia
 

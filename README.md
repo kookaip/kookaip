@@ -6,6 +6,7 @@
 
 - Privacy requirements engineering
 - Privacy weakneeses and vulnerabilities detection and classification
+- Privacy policy generation
 
 😄 Pronouns: She/her
 

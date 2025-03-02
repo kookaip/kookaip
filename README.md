@@ -1,6 +1,8 @@
 ### Hi there 👋🙏
 
-🦘 I'm a PhD student at Decision Systems Lab, University of Wollongong, Australia.
+I'm a Lecturer at the Faculty of Information and Communication Technology, Mahidol University, Thailand.
+
+🦘 I was PhD student at Decision Systems Lab, University of Wollongong, Australia.
 
 🔭 I’m currently working on privacy in software engineering.
 
@@ -10,7 +12,7 @@
 
 😄 Pronouns: She/her
 
-📫 How to reach me: ps642@uowmail.edu.au
+📫 How to reach me: pattaraporn.san@mahidol.ac.th
 
 ⚡ Fun fact: 🐥
 

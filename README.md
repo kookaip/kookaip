@@ -2,7 +2,7 @@
 
 I'm a Lecturer at the Faculty of Information and Communication Technology, Mahidol University, Thailand.
 
-🦘 I was PhD student at Decision Systems Lab, University of Wollongong, Australia.
+🦘 I was a member of Decision Systems Lab, University of Wollongong, Australia.
 
 🔭 I’m currently working on privacy in software engineering.
 
